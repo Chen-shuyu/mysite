@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](WuTa_2020-01-07_09-01-27.jpg)
 
 # Kirby
 
